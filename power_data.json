@@ -1,0 +1,146 @@
+[
+  {
+    "hour": 0,
+    "solarPower": 0,
+    "consumption": 32,
+    "batteryLevel": 216.316
+  },
+  {
+    "hour": 1,
+    "solarPower": 0,
+    "consumption": 49,
+    "batteryLevel": 164.737
+  },
+  {
+    "hour": 2,
+    "solarPower": 0,
+    "consumption": 57,
+    "batteryLevel": 104.737
+  },
+  {
+    "hour": 3,
+    "solarPower": 0,
+    "consumption": 32,
+    "batteryLevel": 71.0526
+  },
+  {
+    "hour": 4,
+    "solarPower": 0,
+    "consumption": 66,
+    "batteryLevel": 1.57895
+  },
+  {
+    "hour": 5,
+    "solarPower": 0,
+    "consumption": 33,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 6,
+    "solarPower": 0,
+    "consumption": 58,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 7,
+    "solarPower": 25.8819,
+    "consumption": 35,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 8,
+    "solarPower": 50,
+    "consumption": 66,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 9,
+    "solarPower": 70.7107,
+    "consumption": 49,
+    "batteryLevel": 19.5396
+  },
+  {
+    "hour": 10,
+    "solarPower": 86.6025,
+    "consumption": 66,
+    "batteryLevel": 38.0819
+  },
+  {
+    "hour": 11,
+    "solarPower": 96.5926,
+    "consumption": 46,
+    "batteryLevel": 83.6152
+  },
+  {
+    "hour": 12,
+    "solarPower": 100,
+    "consumption": 58,
+    "batteryLevel": 121.415
+  },
+  {
+    "hour": 13,
+    "solarPower": 96.5926,
+    "consumption": 50,
+    "batteryLevel": 163.349
+  },
+  {
+    "hour": 14,
+    "solarPower": 86.6025,
+    "consumption": 44,
+    "batteryLevel": 201.691
+  },
+  {
+    "hour": 15,
+    "solarPower": 70.7107,
+    "consumption": 47,
+    "batteryLevel": 223.03
+  },
+  {
+    "hour": 16,
+    "solarPower": 50,
+    "consumption": 32,
+    "batteryLevel": 239.23
+  },
+  {
+    "hour": 17,
+    "solarPower": 25.8819,
+    "consumption": 66,
+    "batteryLevel": 197.001
+  },
+  {
+    "hour": 18,
+    "solarPower": 1.22465e-14,
+    "consumption": 62,
+    "batteryLevel": 131.738
+  },
+  {
+    "hour": 19,
+    "solarPower": 0,
+    "consumption": 39,
+    "batteryLevel": 90.6851
+  },
+  {
+    "hour": 20,
+    "solarPower": 0,
+    "consumption": 48,
+    "batteryLevel": 40.1588
+  },
+  {
+    "hour": 21,
+    "solarPower": 0,
+    "consumption": 51,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 22,
+    "solarPower": 0,
+    "consumption": 56,
+    "batteryLevel": 0
+  },
+  {
+    "hour": 23,
+    "solarPower": 0,
+    "consumption": 34,
+    "batteryLevel": 0
+  }
+]
