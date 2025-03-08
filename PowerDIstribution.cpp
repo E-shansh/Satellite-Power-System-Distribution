@@ -64,6 +64,19 @@ int main()
         file << "    \"batteryLevel\": " << batteryLevel << "\n";
         file << "  }";
 
+        // Print simulation status
+        cout << hour << "\t" << solarPower << " W\t"
+             << consumption << " W\t"
+             << batteryLevel << " Wh\t";
+
+        if (batteryLevel == 0) {
+            cout << "⚠ CRITICAL: Battery Depleted!\n";
+        } else if (batteryLevel < BATTERY_CAPACITY * 0.2) {
+            cout << "⚠ Low Power Mode Activated\n";
+        } else {
+            cout << "✅ Normal Operation\n";
+        }
+        
         if (hour < SIMULATION_HOURS - 1)
             file << ","; // Add comma for all but last entry
         file << "\n";
